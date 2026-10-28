@@ -23,7 +23,7 @@ The Lavish template lives in `skills/lavish/`:
 Requires Node (Lavish runs through `npx -y lavish-axi`; no global install needed).
 
 ```bash
-git clone https://github.com/<your-username>/claude-grill-lavish.git
+git clone https://github.com/kavan0910/claude-grill-lavish.git
 cd claude-grill-lavish
 ./install.sh                    # global: ~/.claude/skills
 ./install.sh --project ~/my-app # or per-project: ~/my-app/.claude/skills
